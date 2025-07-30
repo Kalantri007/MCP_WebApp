@@ -1,0 +1,39 @@
+**Software Engineer - Full Stack Development**
+
+Company: TechCorp Inc.
+Location: San Francisco, CA
+
+**Job Description:**
+We are seeking a talented Full Stack Software Engineer to join our dynamic team. The ideal candidate will have experience in modern web technologies and a passion for building scalable applications.
+
+**Key Responsibilities:**
+- Develop and maintain web applications using React.js and Node.js
+- Design and implement RESTful APIs and microservices
+- Work with databases including PostgreSQL and MongoDB
+- Collaborate with cross-functional teams using Agile methodologies
+- Write clean, maintainable code with comprehensive testing
+- Optimize application performance and scalability
+- Participate in code reviews and technical discussions
+
+**Required Skills:**
+- 3+ years of experience in JavaScript/TypeScript
+- Proficiency in React.js, Node.js, and Express.js
+- Experience with SQL and NoSQL databases
+- Knowledge of version control systems (Git)
+- Understanding of cloud platforms (AWS, Azure, or GCP)
+- Familiarity with Docker and containerization
+- Experience with testing frameworks (Jest, Cypress)
+
+**Preferred Skills:**
+- Experience with Next.js and modern React patterns
+- Knowledge of GraphQL and API design
+- Understanding of CI/CD pipelines
+- Experience with monitoring and logging tools
+- Background in machine learning or data science
+
+**What We Offer:**
+- Competitive salary and equity package
+- Comprehensive health benefits
+- Remote work flexibility
+- Professional development opportunities
+- Collaborative and innovative work environment
